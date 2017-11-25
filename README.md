@@ -1,3 +1,3 @@
-# Dotctags
+# Ctags Config
 
-Exhuberant tags config file.
+Exhuberant tags config files.
