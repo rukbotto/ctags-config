@@ -14,5 +14,5 @@
 --exclude=*.bak
 --exclude=*.pyc
 
---map-javascript=.jsx
---map-typescript=.tsx
+--map-javascript=+.jsx
+--map-typescript=+.tsx
