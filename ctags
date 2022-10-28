@@ -13,3 +13,6 @@
 --exclude=*.swp
 --exclude=*.bak
 --exclude=*.pyc
+
+--map-javascript=.jsx
+--map-typescript=.tsx
